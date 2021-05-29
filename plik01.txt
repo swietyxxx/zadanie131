@@ -1,1 +1,2 @@
 osoba1: Mikołaj Holas
+osoba2: Mateusz Sieczkowski
